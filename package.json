@@ -1,0 +1,27 @@
+{
+  "name": "ultimotallerreactcrud",
+  "version": "1.0.0",
+  "description": "CRUD_Taller_Richard",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "crud",
+    "3035528"
+  ],
+  "author": "Alejandro_Rico",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "morgan": "^1.10.0",
+    "mysql2": "^3.14.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
